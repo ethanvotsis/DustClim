@@ -5,4 +5,5 @@ DustClim (Dust Storms Assessment for the development of user-oriented Climate Se
 
 This repository aims to host and develop I/O and scientific computation code for the research and development of solar energy and aviation climate products.
 
+Example of solar panel profitability calculations:
 ![Example of solar panel profitability calculations](https://github.com/ethanvotsis/DustClim/blob/master/images/Optimal_cleaning_frequency_2_small.png)
